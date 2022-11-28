@@ -46,3 +46,8 @@ body {
 .remaining-counter {
     color: orangered;
 }
+
+.hiden{
+    display: none;
+    text-align: center;
+}
